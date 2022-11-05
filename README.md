@@ -10,6 +10,9 @@
 
 ### 安装
 ```
+python >= 3.8
+```
+```
 conda install opencv-python flask
 pip install ddddocr -i https://pypi.tuna.tsinghua.edu.cn/simple/
 ```
