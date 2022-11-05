@@ -1,4 +1,4 @@
-import ddddocr, base64, cv2, requests, time,json,threading,configparser,os
+import ddddocr, base64, cv2, time,json,threading,configparser,os
 from flask import Flask, request
 
 # 读取service.conf配置文件
