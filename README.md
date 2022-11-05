@@ -1,7 +1,8 @@
 # captchaocr
 基于ddddocr+flask实现的通用验证码识别接口
 
-
+### 效果图测试
+![node](./test.png)
 
 ### 安装
 ```
